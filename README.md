@@ -18,3 +18,6 @@
 4. Circuit breaker pattern.
 5. Hystrix concepts and implementation.
 6. Bulkhead pattern.
+
+
+![image](https://user-images.githubusercontent.com/46952459/97788561-9c5c1400-1bdb-11eb-8c9f-f848aa0c947b.png)
